@@ -75,7 +75,7 @@ function seaback() {
 
 // Songs begin
 let aud = new Audio();
-aud.src = "./Audio/Sa-lucas.ogg";
+aud.src = "https://mp3teca.app/-/mp3/Morat%20-%20No%20Se%20Va.mp3";
 
 function share() {
 	$('.share').fadeIn();
